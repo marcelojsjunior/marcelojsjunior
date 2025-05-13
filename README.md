@@ -8,7 +8,7 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/ios-filled/50/1A1A1A/sql.png" />
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" />
 <img align="left" alt="Apache Spark" title="Apache Spark" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="AWS" title="Amazon Web Services" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Google Cloud" title="Google Cloud Platform" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/google-cloud.png" />
