@@ -10,9 +10,9 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Spark" title="Apache Spark" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
-<img align="left" alt="AWS" title="Amazon Web Services" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Redshift" title="Amazon Redshift" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/amazon-redshift.png" />
-<img align="left" alt="Databricks" title="Databricks" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Databricks_Logo.png" />
+<img align="left" alt="AWS" title="Amazon Web Services" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+<img align="left" alt="Redshift" title="Amazon Redshift" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/amazon-redshift.png" />
+<img align="left" alt="Databricks" title="Databricks" width="30px" style="padding-right: 10px;" src="https://seeklogo.com/images/D/databricks-logo-77A5EDC6A8-seeklogo.com.png" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
 <img align="left" alt="Amazon QuickSight" title="Amazon QuickSight" width="30px" style="padding-right: 10px;" src="https://assets.aboutamazon.com/f0/32/94f01e46429f8b5b3f0c65e1b4ac/quicksight.png" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
