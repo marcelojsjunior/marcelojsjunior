@@ -41,5 +41,6 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
     style="display: inline-block;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojsjunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
 
