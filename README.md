@@ -29,7 +29,7 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="150" 
     style="padding-right: 10px; display: inline-block;" 
     src="https://github-readme-stats.vercel.app/api?username=marcelojsjunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -37,7 +37,7 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="150" 
     style="display: inline-block;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojsjunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
