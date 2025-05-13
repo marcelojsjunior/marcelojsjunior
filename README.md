@@ -18,6 +18,7 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://i.imgur.com/g46cyri.png" />
 <br/> <br/>
 
 <br/> <br/>
