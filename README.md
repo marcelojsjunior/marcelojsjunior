@@ -19,7 +19,7 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
     title="Databricks" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" 
+    src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ADatabricks_Logo.png&psig=AOvVaw0mZI2ZMYEGh5x8Q-r-URV7&ust=1747182736076000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDNlb6Yn40DFQAAAAAdAAAAABAE)" 
 />
 <img align="left" alt="dbt" title="dbt (Data Build Tool)" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/36370445?s=200&v=4" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
