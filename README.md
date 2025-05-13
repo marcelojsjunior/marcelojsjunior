@@ -12,7 +12,7 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
 <img align="left" alt="Apache Spark" title="Apache Spark" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="AWS" title="Amazon Web Services" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Google Cloud" title="Google Cloud Platform" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/google-cloud.png" />
-<img align="left" alt="Data Build Tool" title="Imagem Externa" width="30px" style="padding-right: 10px;" src="https://www.inovex.de/wp-content/uploads/Bildschirm%C2%ADfoto-2023-05-11-um-12.55.59.png" />
+<img align="left" alt="Data Build Tool" title="Data Build Tool" width="30px" style="padding-right: 10px;" src="https://www.inovex.de/wp-content/uploads/Bildschirm%C2%ADfoto-2023-05-11-um-12.55.59.png" />
 <img align="left" alt="Databricks" title="Databricks" width="30px" style="padding-right: 10px;" src="https://i.imgur.com/ivXkUoH.png" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
