@@ -13,7 +13,14 @@ Olá! Meu nome é Marcelo Junior e atualmente atuo como Analytics Engineer com s
 <img align="left" alt="AWS" title="Amazon Web Services" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Google Cloud" title="Google Cloud Platform" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/google-cloud.png" />
 <img align="left" alt="Redshift" title="Amazon Redshift" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/amazon-redshift.png" />
-<img align="left" alt="Databricks" title="Databricks" width="30px" style="padding-right: 10px;" src="https://seeklogo.com/images/D/databricks-logo-77A5EDC6A8-seeklogo.com.png" />
+<img 
+    align="left" 
+    alt="Databricks" 
+    title="Databricks" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Databricks_Logo.png" 
+/>
 <img align="left" alt="dbt" title="dbt (Data Build Tool)" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/36370445?s=200&v=4" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
 <img align="left" alt="Amazon QuickSight" title="Amazon QuickSight" width="30px" style="padding-right: 10px;" src="https://assets.aboutamazon.com/f0/32/94f01e46429f8b5b3f0c65e1b4ac/quicksight.png" />
